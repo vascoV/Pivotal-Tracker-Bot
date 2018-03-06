@@ -62,8 +62,6 @@ Now, whenever an action happens in pivo you will receive a nicely alignt card in
 
 * **Vasil Vasilev** - *Initial work* - [V.V.](https://vvasilev.eu)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the Apache License - see the [LICENSE.md](https://github.com/vascoV/Pivotal-Tracker-Bot/blob/master/LICENSE) file for details
